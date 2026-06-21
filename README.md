@@ -4,6 +4,8 @@
 
 Android 端 AI 检测与悬浮控制项目，支持 YOLO 多模型、QNN HTP / CPU 推理、悬浮菜单、区域设置与触摸注入。
 
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?logo=telegram&logoColor=white)](https://t.me/YoloTouchHelp)
+
 本项目基于 [xiangsu1145/Auto-aim\_android-yolo](https://github.com/xiangsu1145/Auto-aim_android-yolo) 进行持续修改与扩展，在原有工程基础上完成了界面、功能与交互层面的多项调整。特别感谢 [xiangsu1145](https://github.com/xiangsu1145) 提供的项目基础与相关支持。
 
 ## 项目简介
@@ -11,7 +13,7 @@ Android 端 AI 检测与悬浮控制项目，支持 YOLO 多模型、QNN HTP / C
 `YoloTouchHelp` 是一个基于 Android + YOLO + NDK 的本地推理项目，核心能力包括：
 
 - 本地目标检测，支持多种 YOLO TFLite 模型
-- 高通平台/联发科平台 QNN HTP 加速，并保留 CPU 推理切换
+- 高通平台 QNN HTP 加速，并保留 CPU 推理切换
 - 悬浮球、悬浮菜单、区域设置与检测框绘制
 - Root / Shizuku 双触摸注入链路
 - HTML 主界面、HTML 弹窗与统一风格设置页
@@ -126,7 +128,7 @@ app/build/outputs/apk/release/app-release.apk
 - 导出 / 导入配置
 - 查看权限说明
 - 进入高级设置
-- 查看 GitHub、QQ群、更新日志、友情致谢
+- 查看 GitHub、Telegram 频道、更新日志、友情致谢
 
 ### 悬浮菜单
 
